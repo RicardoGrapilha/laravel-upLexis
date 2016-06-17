@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.8"
+  },
+  "dependencies": {
+    "laravel-elixir": "^3.0.0",
+    "bootstrap-sass": "^3.0.0"
+  },
+  "name": "uplexis-master",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Ricardo Grapilha Lopes",
+  "license": "ISC",
+  "description": "Teste para desenvolvedor PHP da upLexis"
+}
